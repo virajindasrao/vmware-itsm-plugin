@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="5f22f9a8db730300c6d773278c96196d" sys_domain="global" table="x_184790_vra_snow_vra_instance_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>endpoint</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>d8b2f9e8db730300c6d773278c96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mid_server</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>5cb2f9e8db730300c6d773278c96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>dcb2f9e8db730300c6d773278c96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vra_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>50b2f9e8db730300c6d773278c96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>d0b2f9e8db730300c6d773278c96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:47:22</sys_created_on>
+            <sys_id>54b2f9e8db730300c6d773278c96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:47:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 10:06:26</sys_created_on>
+            <sys_id>bf07f5acdb730300c6d773278c961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_184790_vra_snow_vra_instance_details" sys_domain="global" view="Default view">5f22f9a8db730300c6d773278c96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 10:06:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_184790_vra_snow_vra_instance_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 09:45:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f22f9a8db730300c6d773278c96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_184790_vra_snow_vra_instance_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+            <sys_update_name>sys_ui_section_5f22f9a8db730300c6d773278c96196d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 09:45:06</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

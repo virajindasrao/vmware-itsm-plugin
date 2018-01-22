@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message display_value="custom app testing">1bb0b9e7dba70300c6d773278c96194c</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-19 04:49:20</sys_created_on>
+        <sys_id>30b7757cdbbb0300c6d773278c961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+        <sys_update_name>sys_rest_message_headers_30b7757cdbbb0300c6d773278c961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-19 04:49:20</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>

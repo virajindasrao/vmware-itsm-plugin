@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="vra instance details" max_length="40" name="x_184790_vra_snow_vra_instance_details" type="collection">
+        <element label="Endpoint" mandatory="true" max_length="100" name="endpoint" type="string"/>
+        <element choice="1" display="true" label="MID-server" max_length="40" name="mid_server" type="string" use_dependent_field="true">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="vra-name" mandatory="true" max_length="40" name="vra_name" type="string"/>
+    </element>
+</database>

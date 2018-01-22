@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{"username":"jason@corp.local","password":"VMware1!","tenant":"vsphere.local"}</content>
+        <function_name>token call</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>custom app testing [ token call ]</qualified_name>
+        <rest_endpoint>https://vra-01a.corp.local/identity/api/tokens</rest_endpoint>
+        <rest_message display_value="custom app testing">1bb0b9e7dba70300c6d773278c96194c</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-19 04:50:45</sys_created_on>
+        <sys_id>7738757cdbbb0300c6d773278c9619a1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>token call</sys_name>
+        <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_7738757cdbbb0300c6d773278c9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-19 04:53:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server display_value="MID_SERVER_1">3b6dd627db2b0300c6d773278c961948</use_mid_server>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

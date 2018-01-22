@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="vra_name" label="vra_name" language="en" table="x_184790_vra_snow_vra_catalog_items">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vra_name</element>
+            <help/>
+            <hint/>
+            <label>vra_name</label>
+            <language>en</language>
+            <name>x_184790_vra_snow_vra_catalog_items</name>
+            <plural>vra_names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 10:03:42</sys_created_on>
+            <sys_id>bf66fd6cdb730300c6d773278c961926</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>vra_name</sys_name>
+            <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+            <sys_update_name>sys_documentation_x_184790_vra_snow_vra_catalog_items_vra_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-22 06:32:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

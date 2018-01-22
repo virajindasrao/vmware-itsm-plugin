@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="jason">46d0b5efdb670300c6d773278c961927</basic_auth_profile>
+        <basic_auth_user/>
+        <description>custom app testing&#13;
+</description>
+        <name>custom app testing</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://vra-01a.corp.local/identity/api/tokens</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-15 07:10:45</sys_created_on>
+        <sys_id>1bb0b9e7dba70300c6d773278c96194c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>custom app testing</sys_name>
+        <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+        <sys_update_name>sys_rest_message_1bb0b9e7dba70300c6d773278c96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-19 04:49:45</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

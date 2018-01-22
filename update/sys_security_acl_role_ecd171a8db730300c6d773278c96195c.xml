@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 09:43:33</sys_created_on>
+        <sys_id>ecd171a8db730300c6d773278c96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_184790_vra_snow_vra_instance_details.x_184790_vra_snow.vra_instance_details_user</sys_name>
+        <sys_package display_value="vRA-SNOW-PLUGIN" source="x_184790_vra_snow">ebc59611dba74300c6d773278c9619c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vRA-SNOW-PLUGIN">ebc59611dba74300c6d773278c9619c2</sys_scope>
+        <sys_security_acl display_value="x_184790_vra_snow_vra_instance_details">e4d171a8db730300c6d773278c961959</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ecd171a8db730300c6d773278c96195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 09:43:33</sys_updated_on>
+        <sys_user_role display_value="x_184790_vra_snow.vra_instance_details_user" name="x_184790_vra_snow.vra_instance_details_user">84d1b168db730300c6d773278c9619da</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

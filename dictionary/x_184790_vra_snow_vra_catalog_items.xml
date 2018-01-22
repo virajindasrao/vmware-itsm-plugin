@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="vra-catalog-items" max_length="40" name="x_184790_vra_snow_vra_catalog_items" type="collection">
+        <element label="catalog_id" max_length="40" name="catalog_id" type="string"/>
+        <element label="catalog-name" max_length="40" name="catalog_name" type="string"/>
+        <element display="true" label="vra_name" max_length="40" name="vra_name" reference="x_184790_vra_snow_vra_instance_details" type="string"/>
+    </element>
+</database>
